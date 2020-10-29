@@ -42,7 +42,7 @@ class BinaryTree:
         return self.label
 
 
-def RSDS_fun(train_data, tree_num=100):
+def RSDS_fun(train_data, tree_num=10):
     """Handling data noise using completely random forest judgment.
 
         Establish a tree_num completely random tree. The data label in each leaf node
