@@ -16,9 +16,11 @@ Some packages should be installed with the specific version:
 
 The local version of RSDS does not require any other software to be executed.
 
-However, RSDS requires 1 input files:
+However, RSDS requires 2 input:
 
 1. train_data :Numpy type data set.
+
+2. tree_num=100.
 
 EXAMPLE USAGE
 *************
