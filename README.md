@@ -21,7 +21,7 @@ However, RSDS requires 2 input:
 ## EXAMPLE USAGE
 *************
 
-After splite the training set and the test set, RSDS.py is called to pre-process the training set, and the processed training set and the test set call classifier are trained to obtain a classification model. Two comparison algorithm relative-density and ABsmote are in RelativeDensity.py and mABsmote.py respectively
+After splite the training set and the test set, RSDS.py is called to pre-process the training set, and the processed training set and the test set call classifier are trained to obtain a classification model. Two comparison algorithms relative-density and ABsmote are in RelativeDensity.py and mABsmote.py respectively
 
 ## OTHER INFORMATION
 *****************
