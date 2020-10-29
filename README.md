@@ -6,6 +6,7 @@ RSDS: A General Robust Sampling Method for Classifications
 By Yong Zheng ----- September 2020
 
 
+
 DEPENDENCIES
 ************
 
@@ -20,17 +21,22 @@ However, RSDS requires 2 input:
 
 1. train_data :Numpy type data set.
 
-2. tree_num=100.
+2. tree_num=10.
+
+
 
 EXAMPLE USAGE
 *************
 
 After splite the training set and the test set, RSDS.py is called to pre-process the training set, and the processed training set and the test set call classifier are trained to obtain a classification model.
 
+
+
 OTHER INFORMATION
 *****************
 
 Users could use our web at http://www.cquptshuyinxia.com/ as an alternative choice.
+
 
 
 TROUBLESHOOTING
